@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Preguntas</string>
+    <string name="preguntas">Preguntas</string>
+    <string name="textview">VistaTexto</string>
+    <string name="radiobutton">Radio Boton</string>
+    <string name="responder">Comprobar</string>
+    <string name="question_content">Cual es la capitan de butan</string>
+</resources>

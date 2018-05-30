@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AgregarDatos</string>
+    <string name="signo">Signo</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="nombre">Nombre</string>
+    <string name="nacimiento">Nacimiento</string>
+    <string name="agregar">Agregar</string>
+    <string name="limpiar_datos">Limpiar Datos</string>
+</resources>

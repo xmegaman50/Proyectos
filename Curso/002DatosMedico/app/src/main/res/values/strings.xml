@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DatosMedico</string>
+    <string name="colocar_aqui">Colocar aqui</string>
+    <string name="hola_a_todos_cambio_texto">Hola a todos cambio texto</string>
+    <string name="mujer">Mujer</string>
+    <string name="hombre">Hombre</string>
+    <string name="logo">logo</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="presion">Presion</string>
+    <string name="asegurado">Asegurado</string>
+    <string name="donador">Donador</string>
+    <string name="peso_kg">Peso Kg</string>
+    <string name="altura_cm">Altura Cm</string>
+    <string name="nombe">Nombe</string>
+</resources>

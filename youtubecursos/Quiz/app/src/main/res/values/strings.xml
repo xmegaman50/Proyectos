@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="preguntas">Quiz</string>
+    <string name="textview">TextView</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="responder">Check</string>
+
+    <string name="question_content">What is the capital of bhutan?</string>
+
+    <array name="answers">
+        <item>Nayarit</item>
+        <item>Puebla</item>
+        <item>Tomoco</item>
+        <item>Joseliana</item>
+    </array>
+</resources>
