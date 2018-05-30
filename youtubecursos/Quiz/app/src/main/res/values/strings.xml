@@ -5,7 +5,7 @@
     <string name="radiobutton">RadioButton</string>
     <string name="responder">Check</string>
 
-    <string name="question_content">What is the capital of bhutan?</string>
+    <string name="question_content" translatable="false">What is the capital of bhutan?</string>
 
     <array name="answers">
         <item>Nayarit</item>

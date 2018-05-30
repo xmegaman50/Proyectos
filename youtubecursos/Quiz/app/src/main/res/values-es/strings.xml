@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Preguntas</string>
+    <string name="app_name">Cuestionario</string>
     <string name="preguntas">Preguntas</string>
-    <string name="textview">VistaTexto</string>
+    <string name="textview">Visor de Texto</string>
     <string name="radiobutton">Radio Boton</string>
     <string name="responder">Comprobar</string>
-    <string name="question_content">Cual es la capitan de butan</string>
+    <string name="question_content" translatable="false">Cual es la capital de bhutan?</string>
 </resources>

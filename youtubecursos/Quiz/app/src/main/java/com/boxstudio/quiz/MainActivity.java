@@ -20,12 +20,13 @@ public class MainActivity extends AppCompatActivity {
         TextView text_question =(TextView) findViewById(R.id.text_question);
         text_question.setText(R.string.question_content);
 
+        String[] answers =getResources().getStringArray(R.array.answers);
 
         for (int i = 0; i <id_answers.length;i++){
             RadioButton rb = (RadioButton) findViewById(id_answers[i]);
-            rb.setText(String.format("Respuesta %d", i));
+            rb.setText(answers[i]);
 
-            String[] answers =getResources().getStringArray(R.array.answers);
+
         }
     }
 }
